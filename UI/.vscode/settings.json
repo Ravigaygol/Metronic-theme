@@ -1,0 +1,29 @@
+{
+    "[jsonc]": {
+
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "files.watcherExclude": {
+        "\"files.watcherExclude\": {     \"**/.git/objects/**\": true,     \"**/.git/subtree-cache/**\": true,     \"**/node_modules/*/**\": true   }": true,
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/*/**": true
+    },
+    "json.schemas": [
+    
+        
+    
+    ],
+    "[json]": {
+
+
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    }
+    
+}
